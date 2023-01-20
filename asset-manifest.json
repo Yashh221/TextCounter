@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/yreact/static/css/main.839ff419.css",
+    "main.js": "/yreact/static/js/main.8d104bd0.js",
+    "static/js/787.3937ce99.chunk.js": "/yreact/static/js/787.3937ce99.chunk.js",
+    "index.html": "/yreact/index.html",
+    "main.839ff419.css.map": "/yreact/static/css/main.839ff419.css.map",
+    "main.8d104bd0.js.map": "/yreact/static/js/main.8d104bd0.js.map",
+    "787.3937ce99.chunk.js.map": "/yreact/static/js/787.3937ce99.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.839ff419.css",
+    "static/js/main.8d104bd0.js"
+  ]
+}
